@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Indian Diet Recommender | HealthMetrics</title>
+    <meta name="description" content="Get personalized Indian recipe recommendations based on your age, gender, and dietary preferences. Find healthy meal options tailored to your needs." />
+    <!-- Open Graph tags -->
+    <meta property="og:title" content="Indian Diet Recommender | HealthMetrics" />
+    <meta property="og:description" content="Get personalized Indian diet recommendations based on your preferences and dietary needs." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://healthmetrics.com/diet-recommender" />
+    <meta property="og:image" content="https://healthmetrics.com/images/diet-recommender-preview.jpg" />
+    <link rel="stylesheet" href="chatbot/style.css">
+
+   
+
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- This is a replit script which adds a banner on the top of the page when opened in development mode outside the replit environment -->
+    <script type="text/javascript" src="https://replit.com/public/js/replit-dev-banner.js"></script>
+<script type="importmap">
+    {
+      "imports": {
+        "@google/generative-ai": "https://esm.run/@google/generative-ai"
+      }
+    }
+  </script>
+  <section class="chat-window">
+        <button class="close">x close</button>
+        <div class="chat">
+            <div class="model">
+                <p>Hi, my name is Chatur, how can I help you?</p>
+            </div>
+            
+            
+        </div>
+        <div class="input-area">
+            <input placeholder="Ask me anything..." type="text">
+            <button>
+                <img src="./chatbot/Icons/send-icon.png" alt="send">
+            </button>
+        </div>
+    </section>
+
+    <div class="chat-button">
+        <img src="./chatbot/Icons/chat-icon.png" alt="send">
+    </div>
+
+  <script type="module" src="./chatbot/main.js"></script>
+  </body>
+</html>

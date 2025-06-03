@@ -1,0 +1,166 @@
+Overview:
+Design a modern, visually appealing, and interactive landing page for "SwasthyaAI," a personalized health companion platform. The theme should be fresh, clean, and highly attractive with soft shadows, glassmorphism cards, and rounded corners. Use subtle motion animations such as scroll-triggered animations, hover effects, and text animations to enhance user engagement. The design should feel smooth, welcoming, and professional with a focus on wellness, technology, and personalization.
+
+1. General Design Style
+Use soft shadows to create depth without harsh contrasts.
+
+Apply glassmorphism effect on cards: translucent backgrounds with blurred content behind, subtle borders, and light reflections.
+
+Rounded corners with a 2xl border-radius for all major UI elements (cards, buttons, input fields).
+
+Use a light, airy color palette with soothing blues, whites, and accent colors.
+
+Typography: Use a clean sans-serif font with distinct sizes for headings and body text. Headings should be bold and large; body text should be easy to read and lighter in weight.
+
+Responsive design for all screen sizes.
+
+2. Navigation Bar (Sticky on scroll)
+Left aligned: Logo with text "SwasthyaAI" (stylish, modern font, possibly with a subtle health/AI icon integrated).
+
+Right aligned menu items:
+
+Home
+
+Features
+
+Explore (Dropdown menu with sub-items: Diet, BMI, Fitness Tracker)
+
+Contact
+
+Menu items should smoothly scroll to the relevant page sections when clicked.
+
+Hover effect: Underline or highlight menu item on hover with a subtle animation.
+
+3. Hero Section
+Centered large headline text:
+"Your Personalized Health Companion"
+
+Big font size, main focus of the page.
+
+Apply a subtle text effect (like gradient fill or slight shadow/glow).
+
+Subheadline 1 (smaller font, lighter color):
+"From healthy meals to calorie tracking — it’s all here"
+
+Subheadline 2 (animated, italicized):
+"Say goodbye to generic plans and take control of your wellness."
+
+Animate this line so letters appear one by one from right to left.
+
+Background: Soft, light abstract shapes or very subtle health-themed imagery (like faint leaf patterns or fluid shapes) that do not distract from the text.
+
+4. Feature Flashcards Section (Animated Grid)
+Layout: 2 or 3 rows of cards, max 6 cards total.
+
+Cards use flip animation or hover reveal effect where the card flips or slides to reveal text on hover.
+
+Style: Glassmorphism with soft shadows and rounded corners.
+
+Cards to include:
+
+AI Diet Planning
+
+Image: Food icons and a plate
+
+Text: "Smart meals based on your lifestyle, preferences, and goals"
+
+Personalized Workouts
+
+Image: Dumbbell & stopwatch
+
+Text: "Choose, customize, and track exercises with live stats"
+
+BMI & Health Metrics
+
+Image: BMI gauge meter
+
+Text: "Instant BMI insights with intuitive charts"
+
+Chatbot Assistant
+
+Image: Chat bubble with AI icon
+
+Text: "24/7 health advice with our AI-powered assistant"
+
+Progress Reports
+
+Image: Graph/chart icon
+
+Text: "Track weight, calories, and workout growth visually"
+
+Veg/Vegan/Non-veg Friendly
+
+Image: Leaf icon, meat/dairy icons
+
+Text: "Filter your preferences with smart meal suggestions"
+
+5. Pathways Section – Journey Start
+Title: "Start your SwasthyaAI journey"
+
+Layout: Horizontal panel or stacked cards side-by-side with some spacing.
+
+Cards float slightly with a hover lift effect. Buttons glow on hover.
+
+Each card includes:
+
+For Diet Recommendation
+
+Brief: "Eat smart, stay fit — meals made for YOU"
+
+Button: "Explore Diet AI →"
+
+For BMI
+
+Brief: "Know your numbers and take control"
+
+Button: "Check My BMI →"
+
+For Workout Tracker
+
+Brief: "Train smarter, not harder"
+
+Button: "Build My Workout →"
+
+6. Call to Action Footer
+Catchy line:
+"Make every meal and move count with SwasthyaAI."
+
+Footer design split into three sections:
+
+Left Section:
+
+Logo & tagline:
+"SwasthyaAI — Smarter Living, Every Day"
+
+Quick one-line value proposition (e.g., "Your AI-powered partner for a healthier life")
+
+Center Section (Quick Links):
+
+Home
+
+Diet Recommendations
+
+Fitness Tracker
+
+BMI Calculator
+
+Contact
+
+Right Section:
+
+Social media icons (Facebook, Twitter, Instagram, LinkedIn)
+
+Email subscription box with placeholder "Subscribe for updates"
+
+7. Additional Animations and UX Enhancements
+Smooth scroll effect for page navigation.
+
+Subtle fade-in or slide-up animations for each section as the user scrolls.
+
+Hover effects on buttons: gentle scaling and glowing outlines.
+
+Interactive flashcards with subtle 3D tilt effect on mouse movement.
+
+For the animated text in the hero section, ensure each letter's animation timing is smooth and easily readable.
+
+Use CSS transitions for all interactive elements to maintain smoothness.
