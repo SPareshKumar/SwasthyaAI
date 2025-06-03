@@ -15,7 +15,7 @@
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/swasthya-ai.git
+git clone https://github.com/SPareshKumar/swasthya-ai.git
 cd swasthya-ai
 ```
 
