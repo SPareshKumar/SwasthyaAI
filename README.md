@@ -4,23 +4,27 @@
 
 ## 🚀 Features
 
-🧠 Indian Diet Recommender
+🧠 **Indian Diet Recommender**
+
 A personalized KNN-based recommendation system that suggests healthy Indian meals.
 It considers your age, gender, goals (like weight loss or muscle gain), allergies, and dietary preferences.
 Recipes are nutritious, culturally relevant, and aligned with your health journey.
 Plus, get 24/7 support from a custom-trained AI chatbot that answers your health and diet-related questions in real-time.
 
-💬 WhatsApp Health Logger
+💬 **WhatsApp Health Logger**
+
 Track your meals, workouts, water intake, and daily habits directly through WhatsApp.
 No need to download a separate app—just chat to log and receive updates or summaries.
 Perfect for those who want a lightweight, accessible way to stay accountable and consistent.
 
-✅ BMI Calculator
+✅ **BMI Calculator**
+
 Easily calculate your Body Mass Index (BMI) using your height and weight inputs.
 Instantly get categorized health feedback—whether you're underweight, healthy, overweight, or obese.
 This helps you understand your body composition and set realistic fitness goals.
 
-🌐 User-Friendly Interface
+🌐 **User-Friendly Interface**
+
 A modern, responsive UI built for a seamless wellness tracking experience.
 Whether on desktop or mobile, users can easily navigate features, view reports, and update entries.
 Designed with simplicity and clarity in mind, even first-time users feel instantly comfortable.
