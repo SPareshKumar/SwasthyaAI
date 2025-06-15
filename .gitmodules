@@ -1,0 +1,3 @@
+[submodule "MoodFM"]
+	path = MoodFM
+	url = https://github.com/SPareshKumar/Mood.FM.git
