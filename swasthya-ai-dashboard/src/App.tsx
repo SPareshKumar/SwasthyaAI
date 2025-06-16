@@ -41,11 +41,11 @@ const Sidebar: React.FC<{ isOpen: boolean; onClose: () => void }> = ({ isOpen, o
   }, []);
 
   const tools = [
-    { name: 'Mood.fm', icon: Music, href: 'https://mood-fm-ug3a.onrender.com/', external: true },
+    { name: 'Mood.fm', icon: Music, href: 'https://mood-fm-bsx0.onrender.com/', external: true },
     { name: 'VitalCart', icon: ShoppingCart, href: 'https://prescription-based-vitalcart.onrender.com/', external: true },
     { name: 'WiseBites', icon: Heart, href: 'https://indian-diet-guide.onrender.com/', external: true },
     { name: 'WhatsApp Health Journal', icon: MessageSquare, href: 'https://smart-health-log-via-whatsapp.onrender.com/', external: true },
-    { name: 'BMI Calculator', icon: Calculator, href: 'https://bmi-calculator-3oj5.onrender.com/', external: true },
+    { name: 'BMI Calculator', icon: Calculator, href: 'https://bmi-calculator-mvpj.onrender.com/', external: true },
   ];
 
   useEffect(() => {
