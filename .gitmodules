@@ -10,3 +10,6 @@
 [submodule "BMICalculator"]
 	path = BMICalculator
 	url = https://github.com/AnishkaR10/BMI-Calculator.git
+[submodule "IndianDietGuide"]
+	path = IndianDietGuide
+	url = https://github.com/AnishkaR10/Indian-Diet-Guide.git
