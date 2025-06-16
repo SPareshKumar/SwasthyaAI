@@ -4,6 +4,6 @@
 [submodule "VitalCart"]
 	path = VitalCart
 	url = https://github.com/AnishkaR10/VitalCart.git
-[submodule "WhatsAppHealthLog"]
+[submodule "WhatsAppHealthJournal"]
 	path = WhatsAppHealthLog
 	url = https://github.com/SPareshKumar/Smart-Health-Log-via-WhatsApp.git
